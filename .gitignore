@@ -1,6 +1,9 @@
 # General
 .DS_Store
 
+# key
+server/models/key.js
+
 # dependencies
 node_modules/
 
